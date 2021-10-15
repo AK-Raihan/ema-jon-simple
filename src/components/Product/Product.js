@@ -7,7 +7,7 @@ const Product = (props) => {
     const{img,name,price,seller,stock}=props.product
     const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />
     return (
-        <div className='product-main-div'>
+        <div className='product'>
             <div className="img-div">
                 <img src={img} alt="" />
             </div>
