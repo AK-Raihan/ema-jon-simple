@@ -1,0 +1,13 @@
+
+
+.product-main-div{
+    display: flex;
+    border-bottom: 1px solid #ddd;
+}
+
+.purches-btn{
+    background:#f0c14b;
+    padding: 5px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+
+.search-container{
+    background: #000;
+    text-align: center;
+    line-height: 50px;
+}
+.search-container input{
+    width: 75%;
+    padding: 7px;
+}
+
+
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.products-container{
+    margin-left: 15%;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.cart-container{
+    border-left: 1px solid #ddd;
+    padding-left: 20px;
+}
+

@@ -1,0 +1,27 @@
+
+
+.header{
+    text-align: center;
+}
+
+.logo{
+    height: 80px;
+    margin-top: 10px;
+}
+
+.menu{
+    text-align: left;
+    background: #000;
+    font-size: 18px;
+    padding: 10px;
+}
+.menu a{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.menu a:hover{
+    background: lightgray;
+}
